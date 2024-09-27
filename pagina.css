@@ -74,6 +74,7 @@ text-shadow:0px 0px 5px #0099ff;
     border-radius: 10px;
     box-shadow: 6px 6px 22px 2px black;
     overflow-y: visible;
+    margin-top: auto;
 }
 .produto{
     display: grid;
